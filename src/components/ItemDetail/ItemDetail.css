@@ -1,0 +1,50 @@
+.detailImgs {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  border-radius: 4px;
+  box-shadow: #8197ff 0px 5px 10px 0px;
+  height: 400px;
+  width: 500px;
+}
+
+.detailName {
+  color: rgb(59, 102, 129);
+}
+
+.detailDescription {
+  color: white;
+  display: block;
+  padding-top: 15px;
+  padding-bottom: 18px;
+}
+
+.detailPrice {
+  color: #8197ff;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+h4 {
+  margin-top: 1rem;
+  color: rgb(247, 172, 80);
+}
+
+footer {
+  margin-top: 0.9rem;
+}
+
+.buttonFinalizar {
+  list-style-type: none;
+  text-decoration: none;
+  color: white;
+  font-size: 18px;
+  font-weight: 300;
+}
+
+.buttonFinalizar:hover {
+  color: #252e3d;
+  transition: 0.3s repeat;
+  color: #65ff65;
+}

@@ -1,0 +1,16 @@
+.detailProductsContainer{
+    align-items: center;
+    display: grid;
+    grid-template-columns: 1.5fr 1fr;
+    justify-content: center;
+    margin: 8% 20%;
+    width: auto;
+}
+
+.cartTittle{
+    font-size: 28px;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    color: #d5e4ff;
+    text-align: center;
+}

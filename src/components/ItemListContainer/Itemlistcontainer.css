@@ -1,0 +1,21 @@
+.tituloPrincipal {
+  text-align: center;
+  padding-top: 2rem;
+  padding-bottom: 2.5rem;
+  font-weight: 200;
+  color: #dde9ff;
+}
+
+.avisoEspera{
+  color:#ff994b;
+  text-align: center;
+  padding-top: 10rem;
+  font-size: 2rem
+}
+
+.avisoProximamente{
+  color:white;
+  text-align: center;
+  padding-top: 10rem;
+  font-size: 2rem
+}
