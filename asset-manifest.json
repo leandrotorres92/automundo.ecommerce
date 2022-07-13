@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/automundo.ecommerce/static/css/main.f3edc8cf.css",
-    "main.js": "/automundo.ecommerce/static/js/main.8ca7acad.js",
+    "main.js": "/automundo.ecommerce/static/js/main.22579d54.js",
     "index.html": "/automundo.ecommerce/index.html",
     "main.f3edc8cf.css.map": "/automundo.ecommerce/static/css/main.f3edc8cf.css.map",
-    "main.8ca7acad.js.map": "/automundo.ecommerce/static/js/main.8ca7acad.js.map"
+    "main.22579d54.js.map": "/automundo.ecommerce/static/js/main.22579d54.js.map"
   },
   "entrypoints": [
     "static/css/main.f3edc8cf.css",
-    "static/js/main.8ca7acad.js"
+    "static/js/main.22579d54.js"
   ]
 }
